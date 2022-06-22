@@ -1,0 +1,44 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "firstN": "Brig",
+      "lastN": " ",
+      "str": 8,
+      "dex": 15,
+      "con": 14,
+      "int": 10,
+      "wis": 12,
+      "cha": 13,
+      "alignments": "Neutral Good",
+      "classes": "Rogue",
+      "races": "Kobold",
+      "languages": "Deep Speech",
+      "traits": "Halfling Nimbleness",
+      "magic-items": "Well of Many Worlds",
+      "equipment": "Oil (flask)",
+      "proficiencies": "Bagpipes",
+      "skills": "Sleight of Hand"
+    },
+    {
+      "id": 2,
+      "firstN": "Fester",
+      "lastN": "Skullgut",
+      "str": 13,
+      "dex": 14,
+      "con": 15,
+      "int": 10,
+      "wis": 12,
+      "cha": 8,
+      "alignments": "Neutral Good",
+      "classes": "Wizard",
+      "races": "Human",
+      "languages": "Orc",
+      "traits": "Draconic Ancestry",
+      "magic-items": "Dimensional Shackles",
+      "equipment": "Hourglass",
+      "proficiencies": "Warhammers",
+      "skills": "Arcana"
+    }
+  ]
+}
